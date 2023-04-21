@@ -22,7 +22,7 @@ html{
   margin: auto 0;
 }
 body {
-  background-image: url("/UX_UI_HW_17/images/homepageart.png");
+  background-image: url("/images/homepageart.png");
   background-size: cover;
   min-height: 100%;
 }
